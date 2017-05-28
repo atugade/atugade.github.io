@@ -1,0 +1,9 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: tesseract
+  i18n: tesseract
+  gh_user: atugade
+  repo: tesseract
+  img: /static/assets/img/landing/tesseract.png
+  desc: A library / command line tool written in golang that seamlessly integrates your choice of configuration management with terraform.

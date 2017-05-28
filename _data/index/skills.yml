@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: git, AWS, mongodb, Rackspace, golang, Python
+percentage: 80, 90, 75, 80, 70, 90

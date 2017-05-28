@@ -1,0 +1,92 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Fox
+    i18n: fox
+  desc:
+    detail: Fill in description here.
+    i18n: fox_arch_desc
+  date:
+    detail: Jan. 2017
+    i18n: fox_arch_date
+  job:
+    detail: Devops Architect
+    i18n: fox_arch_job
+  icon: fa-plus-square
+
+- name:
+    detail: Fox
+    i18n: fox
+  desc:
+    detail: |
+      As part of the Network Engineering & Operations Techops group, we are responsible for FXnetworks web properties fxnetworks.com, simpsonsworld.com, fxmretro.com, internal FXNetwork API and supporting internal sites for Foxsports Digital site foxsports.com for social media integration. All infrastructure was stood up in Rackspace cloud, configuration management implemented with Ansible and continuous delivery deployment pipelines built in Jenkins.
+    i18n: fox_desc
+  date:
+    detail: May. 2015
+    i18n: fox_date
+  job:
+    detail: Senior Devops Engineer
+    i18n: fox_job
+  icon: fa-plus-square
+
+- name:
+    detail: Rovi
+    i18n: rovi
+  desc:
+    detail: |
+      Under the direction of the Vice President of Platform Services, I was responsible for the projects that revolved around designing and implementing a DevOps pipeline and the infrastructure for their next generation Metadata API on Openstack and Rackspace Cloud with automation, self-healing, elasticity, high availability and one-click deployment principles as our core design values.
+    i18n: rovi_desc
+  date:
+    detail: Apr 2011
+    i18n: rovi_date
+  job:
+    detail: Senior Continuous Delivery Engineer
+    i18n: rovi_job
+  icon: fa-plus-square
+
+- name:
+    detail: DivX
+    i18n: divx
+  desc:
+    detail: |
+      As part of the Production Operations team at DivX, we were responsible designing, implementing and supporting all Production website infrastructure including core IT services such as DNS, Directory Services, E-mail, Network and Storage.
+    i18n: divx_desc
+  date:
+    detail: Aug 2010
+    i18n: divx_date
+  job:
+    detail: Senior Unix System Administrator
+    i18n: divx_job
+  icon: fa-plus-square
+
+- name:
+    detail: California State University, Northridge
+    i18n: csun
+  desc:
+    detail: |
+      As part of the core IT operations group, my role in the group was supporting the core infrastructure like Email, File Sharing, Unix shell accounts, Directory Services supporting the 40,000+ user base made up of students, faculty and staff.
+    i18n: csun_desc
+  date:
+    detail: Aug 2007
+    i18n: csun_date
+  job:
+    detail: Unix System Administrator
+    i18n: csun_job
+  icon: fa-plus-square
+
+- name:
+    detail: Dreamworks Animation
+    i18n: dwa
+  desc:
+    detail: |
+      Supported Linux and Windows desktops and servers, which included troubleshooting the many facets of hardware, operating systems, in-house developed applications, 3rd party graphics applications, maintained Perl and Python scripts to automate user account activation and deactivation which required interfacing with databases and proprietary movie production software.
+    i18n: dwa_desc
+  date:
+    detail: Oct 2005
+    i18n: dwa_date
+  job:
+    detail: System Administrator
+    i18n: dwa_job
+  icon: fa-plus-square
+
+

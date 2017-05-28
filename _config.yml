@@ -1,0 +1,57 @@
+# Welcome to Jekyll!
+
+# Website settings
+title: Arwin Tugade
+description: Arwin Tugade
+keywords: system,administration,devops,cloud,engineer,sysadmin
+
+baseurl: ""
+url: "http://atugade.github.io"
+# url: http://127.0.0.1:4000/
+
+img_path: '/static/assets/img/blog'
+
+# author -- index page "about me" section
+author:
+  name: 'Arwin Tugade'
+  first_name: 'Arwin'
+  last_name: 'Tugade'
+#  cv: http://cv.jack003.com  # A online CV can be printed as PDF, leave blank if you don't have now
+  email: 'arwin.tugade@gmail.com'
+#  facebook_username: ''
+  github_username: atugade
+  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  skill_icon1:
+    - name: icon-apache
+    - name: fa-linux
+  skill_icon2:
+    - name: fa-linux
+    - name: icon-apache
+  desc: An experienced Cloud Architect who is passionate about technology. My experience has enabled me to build a strong technical architecture skill-set allowing me to construct creative solutions.
+
+# comment
+disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
+  name: jalpc
+  public_key: tj2MPaNlHMONwTH5bGDNSXyaBpW7q282MeUzh5CwcjJerNhK8Kxk3aWo7IckzTX7
+
+# analytics
+## google analytics
+ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
+  # id:
+
+## growingIO
+gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
+  # id:
+
+## donation
+donation: off  # type 'on'/'off' to choice display donation button at post page or not
+
+# Build settings
+encoding: utf-8
+
+# other settings
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
