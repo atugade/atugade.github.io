@@ -14,7 +14,12 @@ I'm starting this blog just to document my own personal journey learning or prot
 * OS: macOS 10.14 Mojave (18A391)
 * Spec: MacBook Pro (Mid 2015)
 
-I installed minikube via [Homebrew](https://brew.sh/).
+I installed kubernetes-cli tools and minikube via [Homebrew](https://brew.sh/).
+
+```
+brew cask install minikube
+brew install kubernetes-cli
+```
 
 Start minikube with a little more cpu and memory than the default settings:
 
