@@ -11,7 +11,7 @@ icon: icon-html
 
 I'm starting this blog just to document my own personal journey learning or prototyping things docker and kubernetes related.  I've been meaning to create documentation for the things I've been researching on my own for the past couple months like building docker images without docker, CI/CD, maintaining k8s cluster state, local development to name a few.  This post is just a quick little tidbit on how I launch minikube so I can actually do something useful on it locally on my laptop.
 
-* OS: macOS 10.14 (mojave)
+* OS: macOS 10.14 Mojave (18A391)
 * Spec: MacBook Pro (Mid 2015)
 
 I installed minikube via [Homebrew](https://brew.sh/).
@@ -88,4 +88,4 @@ $ kubectl delete deployment nginx1
 deployment.extensions "nginx1" deleted
 ```
 
-In the next article, I will document a Jenkins CI/CD pipeline with dynamic slaves on kubernetes.
+This is enough for me personally to get up and running so I can start testing out some ideas and concepts in kubernetes.
